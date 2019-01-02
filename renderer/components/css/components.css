@@ -216,3 +216,9 @@ body {
 .plugin-content-container em {
     font-style: italic;
 }
+
+.urdu-right-align{
+    font-family: NotoNastaliqUrdu;
+    direction: rtl;
+    text-align: right;
+}
